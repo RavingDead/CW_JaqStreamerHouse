@@ -1,0 +1,18 @@
+{
+    "name": "JaqStreamerHouse",
+    "version_number": "1.0.0",
+    "description": "Modpack for my friends. You know who you are 👁️   👁️",
+    "website_url": "https://github.com/RavingDead/CW_JaqStreamerHouse",
+    "dependencies": [
+		"hyydsz-Boombox-1.0.4",
+		"RamuneNeptune-CustomVideoSaveLocation-1.0.10",
+		"Toedtmanns-ExtraItems-1.0.0",
+		"loaforc-Flashcard-0.3.0",
+		"RamuneNeptune-MakeMeRagdoll-1.0.20",
+		"ViViKo-MoreColors-1.4.0",
+		"DiabolicalStudios-MoreCustomization-1.0.5",
+		"TrioGhost-MoreSpookerVideo-1.0.4",
+		"Computery-Self_Sufficient-3.2.0",
+		"MaxWasUnavailable-Virality-1.0.2"
+    ]
+}
